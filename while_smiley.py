@@ -6,3 +6,8 @@ while x <= 10:
 # for loop version
 for num in range(1,11):
     print("\U0001f600" * num)
+
+# nested loop
+for x in range(3):
+    for num in range(1,11):
+        print("\U0001f600" * num)
