@@ -5,3 +5,6 @@ for num in range(1, 21):
         print(f"{num} is even")
     elif num % 2 == 1:
         print(f"{num} is odd")
+
+
+# https://www.udemy.com/the-modern-python3-bootcamp/learn/v4/t/lecture/8794256?start=0
