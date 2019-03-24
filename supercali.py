@@ -16,3 +16,9 @@ for s in sounds:
     result += s.upper()
 
 # 2
+sounds = ["super", "cali", "fragil", "istic", "expi", "ali", "docious"]
+# Define your code below:
+result = ''
+for s in sounds:
+    result += s
+result = result.upper()
