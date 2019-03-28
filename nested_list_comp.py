@@ -8,3 +8,9 @@ answer = [[val for val in range(0, 3)] for num in range(0, 3)]
 print(answer)
 
 # [[print(val) for val in range(1,3)] for i in range(1,3)]
+
+
+# Exercise 2
+
+answer2 = [[val for val in range(0, 10)] for num in range(0, 10)]
+print(answer2)
